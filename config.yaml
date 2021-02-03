@@ -1,0 +1,5 @@
+port: 80
+credentials: "credentials.json"
+telegram:
+  token: "1523560914:AAFTl19_as8di5CjPaYeMkOFdEDcWL1p1hE"
+  webhook_url: "https://8d35f2a6ceb3.ngrok.io"
